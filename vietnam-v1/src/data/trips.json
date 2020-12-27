@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../asset/Images/travel-1.jpg",
+        "alt": "Sai Gon",
+        "name": "Sai Gon",
+        "button": "View Destination"
+    },
+    {
+        "img": "../asset/Images/travel-2.jpg",
+        "alt": "Ha Long Bay",
+        "name": "Ha Long Bay",
+        "button": "View Destination"
+    },
+    {
+        "img": "../asset/Images/travel-3.jpg",
+        "alt": "Pink Church",
+        "name": "Pink Church",
+        "button": "View Destination"
+    },
+    {
+        "img": "../asset/Images/travel-4.jpg",
+        "alt": "Da Nang",
+        "name": "Da Nang",
+        "button": "View Destination"
+    }
+]
